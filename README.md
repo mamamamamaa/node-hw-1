@@ -1,0 +1,4 @@
+- First case: 1) https://monosnap.com/file/3HOGsdpzx1inM0ysDtdTuhLYjfjFx6 2)https://monosnap.com/file/HGEV50FbeC4Gah21bAS6NqNQ2oyx22
+- Second case: https://monosnap.com/file/WmO2FIrUuesdSFMoT4MVvaN8nfg2GG
+- Third case: 1) https://monosnap.com/file/DyDqdkdoOeu26kasIkgoYArpc67Qxd 2)https://monosnap.com/file/WBRBzTKQhfm7fIQAyXk3J1vIeIRlaC
+- Fourth case: 1) https://monosnap.com/file/0K5ZKNvs4wQv1pz9FBLTNFZHDJLDUa 2)https://monosnap.com/file/OZ2fTz4rcb08zLzOSkvpcpmhRyFKAt
